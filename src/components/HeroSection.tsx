@@ -180,7 +180,7 @@ const HeroSection = () => {
 
             {/* Small headline */}
             <h1 ref={headlineRef} className="text-3xl md:text-4xl font-semibold tracking-tight text-foreground mb-3 text-center">
-              Dharmik Prajapati
+              Dharmik R Prajapati
             </h1>
 
             {/* Short subtitle */}
