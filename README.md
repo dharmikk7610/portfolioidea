@@ -130,35 +130,6 @@ Features
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharmikk7610&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikk7610&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmikk7610&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharmikk7610&theme=onedark&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -177,15 +148,15 @@ Features
 📧 Email: prajapatidharmik2812@gmail.com
 
 💼 LinkedIn:
-[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dharmik-prajapati-469836293?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+https://www.linkedin.com/in/dharmik-prajapati-469836293?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 🌐 Portfolio:
-[https://your-portfolio.com](https://portfolioidea-two.vercel.app/]
+https://portfolioidea-two.vercel.app/
 
 
 
 📷 Instagram:
-[https://instagram.com/coding___career](https://www.instagram.com/coding__career_?igsh=MWR3OHVydWNiZHM0aA==)
+https://www.instagram.com/coding__career_?igsh=MWR3OHVydWNiZHM0aA==
 
 ---
 
